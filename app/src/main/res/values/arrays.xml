@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pagamentos">
+        <item>Selecione</item>
+        <item>Debito</item>
+        <item>@string/vale_refeicao</item>
+        <item>VA</item>
+    </string-array>
+</resources>
